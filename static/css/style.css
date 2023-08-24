@@ -192,7 +192,7 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url('https://github.com/lipzh5/Peizhen-Li/blob/master/static/image/photo.jpg');
-    background-size: 120%;
+    background-size: 100%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
